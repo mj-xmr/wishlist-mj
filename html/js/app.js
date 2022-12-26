@@ -102,6 +102,6 @@ function CopyToClipboard(id)
 //infinite loop
 
 renderWishlist()
-setInterval('renderWishlist()',2000)
+setInterval('renderWishlist()',10000)
 
 
